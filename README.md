@@ -9,6 +9,9 @@ codex-ccswitch-mobile 用于配置和排查“手机端 Codex 远程控制电脑
 本人是使用 mac 进行的测试，如是 Windows 请让 codex 稍作调整即可。
 如有疑问可以联系我哦(123428316) ，感谢！
 
+使用方法： 发给 codex 提示词：   安装这个skill  https://github.com/kuangre123/codex-ccswitch-mobile/   ，并实现手机端 Codex 远程控制电脑端 Codex
+
+
 "codex-ccswitch-mobile" is used for configuring and troubleshooting the scenario where "the Codex on the mobile device remotely controls the Codex on the computer side,
 while the model request continues to use the site of the computer's local CC Switch (such as icodeeasy and other custom sites) or other local Responses API proxies". There is no need to subscribe to the Codex Pro membership. 
 The activation conditions are as follows: The Codex on the computer end should be running normally, and the Codex on the mobile end needs to be updated to the latest version; 
