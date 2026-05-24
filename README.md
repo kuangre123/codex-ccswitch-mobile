@@ -19,3 +19,5 @@ Support for remote desktop sessions, both ends log in with the same ChatGPT acco
 The local proxy is running, and the proxy/upstream supports the /v1/responses protocol used by Codex.
 The criterion for successful verification is that the mobile end can control the Codex on the computer end! 
 If you have any questions, please feel free to contact me (cb123428316@gmail.com).
+
+Usage instructions: Send the Codex prompt message: Install this skill at https://github.com/kuangre123/codex-ccswitch-mobile/, and enable remote control of Codex on the mobile device from the computer.
