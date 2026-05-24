@@ -2,7 +2,7 @@ codex-ccswitch-mobile 用于配置和排查“手机端 Codex 远程控制电脑
 同时模型请求继续走电脑本机 CC Switch的站点（例如 icodeeasy 等自定义站点）  
 或其他本地 Responses API 代理”的场景。无需开通 codex  pro 会员。
 
-开通条件包括：电脑端 Codex 可正常运行，手机端 Codex 升级到最新即可； 
+开通条件包括：电脑端 Codex 可正常运行，手机端 ChatGPT升级到最新版，可以在菜单里看到 Codex ； 
 支持远程桌面会话，两端登录同一个 ChatGPT 账号，电脑端不是 API-key-only 登录，
 本地代理正在运行，并且代理/上游支持 Codex 使用的 /v1/responses 协议。
 验证成功的标准是手机端能控制电脑端 Codex！
